@@ -30,18 +30,31 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Hi there, welcome to my repo where RocketSeat's introductory bootcamp codes, codes in ReactJS, React Native & NodeJS are stored.
+
+Simple code, but not all start from the top. We are growing and perfecting ourselves to the best of our ability. Front-end is a passion and I am more and more in love.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+1. Clone this repo using
+
+```
+git clone git@github.com:wallyngson/GoStack-Bootcamp.git
+```
+
+2. Move yourself to the appropriate directory.
+3. Run to install dependencies
+
+```
+yarn
+```
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Have yarn installed on your machine.
 
 ```
-Give examples
+[yarn](https://yarnpkg.com/)
 ```
 ## ⛏️ Studied Languages <a name = "languages"></a>
 
