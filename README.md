@@ -25,8 +25,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Languages](#languages)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -53,7 +51,7 @@ Give examples
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@wallyngson](https://github.com/wallyngson) - Student on RocketSeat.
+- [@wallyngson](https://github.com/wallyngson) - DEV Front-end & Student on RocketSeat.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
