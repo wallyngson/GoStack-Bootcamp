@@ -48,14 +48,6 @@ git clone git@github.com:wallyngson/GoStack-Bootcamp.git
 ```
 yarn
 ```
-
-### Prerequisites
-
-Have yarn installed on your machine.
-
-```
-[yarn](https://yarnpkg.com/)
-```
 ## ⛏️ Studied Languages <a name = "languages"></a>
 
 - [ReactJS](https://pt-br.reactjs.org/) - Web Framework
